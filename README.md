@@ -1,4 +1,6 @@
-# vue-api-start
+# Vue API Starter
+
+> A boiler plate for full Vue/Vuex app with an API integration for simpler starting. Updated August 2019.
 
 ## Project setup
 ```
@@ -7,7 +9,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run dev
 ```
 
 ### Compiles and minifies for production
